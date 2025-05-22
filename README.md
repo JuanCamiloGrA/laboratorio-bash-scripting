@@ -44,4 +44,4 @@ Esto descargará y ejecutará el script `10clonaypermiso.sh` desde GitHub, clona
 
 ---
 
-¡Explora, aprende y modifica estos scripts para mejorar tus habilidades en Bash! Si tienes dudas o sugerencias, no dudes en abrir un issue o un pull request.
+Si tienes dudas o sugerencias, no dudes en abrir un issue o un pull request.
