@@ -21,7 +21,7 @@ El taller está compuesto por scripts que van desde un simple "Hola Mundo" hasta
 ¿Quieres tener todos los scripts listos para usar en tu máquina? ¡Solo necesitas un comando! Ejecuta directamente en tu terminal:
 
 ```bash
-curl -s https://raw.githubusercontent.com/JuanCamiloGrA/laboratorio-bash-scripting/main/10clonaypermiso.sh
+bash <(curl -s https://raw.githubusercontent.com/JuanCamiloGrA/laboratorio-bash-scripting/main/10clonaypermiso.sh)
 ```
 
 Esto descargará y ejecutará el script `10clonaypermiso.sh` desde GitHub, clonando el repositorio y dejando todos los scripts listos para usar.
